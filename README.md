@@ -1,2 +1,1 @@
-# harigov.github.io-src
-Source repository for personal blog
+Hey, this is a dummy readme file.
