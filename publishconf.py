@@ -14,11 +14,11 @@ SITEURL = 'https://www.hari.ai'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = None #'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "hari-ai"
 #GOOGLE_ANALYTICS = ""

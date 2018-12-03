@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-THEME = 'themes/nikhil-theme' #pelican-dark-theme'
+THEME = 'themes/nikhil-theme'
 
 # Blogroll
 LINKS = ()
@@ -32,3 +32,4 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
